@@ -1,0 +1,29 @@
+{
+  "name": "simple-algos",
+  "version": "1.0.0",
+  "description": "A simple algorithm library with utility functions for commonly used algorithms.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejasautkar/simple-algos.git"
+  },
+  "keywords": [
+    "algorithms",
+    "javascript",
+    "sort",
+    "search"
+  ],
+  "author": "Tejas Autkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tejasautkar/simple-algos/issues"
+  },
+  "homepage": "https://github.com/tejasautkar/simple-algos#readme"
+}
