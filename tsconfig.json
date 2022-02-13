@@ -1,11 +1,15 @@
 {
     "compilerOptions": {
+      "incremental": true,
       "module": "commonjs",
-      "target": "es2015",
+      "target": "es5",
       "declaration": true,
-      "outDir": "./dist"
+      "outDir": "dist",
+      "esModuleInterop": true,        /* Enables intero between CommonJS and ES */
+      "skipLibCheck": true,           /* Skip type checking of declaration files. */
+      "forceConsistentCasingInFileNames": true /* Disallow inconsistently */
     },
     "include": [
-      "src/**/*"
+      "src"
     ]
   }
