@@ -1,1 +1,1 @@
-export * from "../src/ds/arrays";
+export { mergeSort, quickSort } from "./ds/Arrays";

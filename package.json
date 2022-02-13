@@ -8,7 +8,7 @@
     "/dist"
   ],
   "scripts": {
-    "test": "npm test"
+    "build": "npx tsc"
   },
   "repository": {
     "type": "git",
